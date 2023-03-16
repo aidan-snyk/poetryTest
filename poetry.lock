@@ -1,0 +1,15 @@
+[[package]]
+name = "requests"
+version = "2.1.0"
+description = "Python HTTP for Humans."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "aca29ea6208dd3434b93a9ef78d028bad65ebd09e62b6b54573ab75db931e2a3"
+
+[metadata.files]
+requests = []
